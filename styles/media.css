@@ -1,0 +1,38 @@
+@media (max-width:1400px) {
+    
+}
+@media (max-width:1200px) {
+    .rectangle3 {
+        display: none;
+    }
+    .about__bg {
+        top: -10%;
+    }
+    .work{
+        display: none;
+    }
+}
+@media (max-width:992px) {
+    .about__bg {
+        top: -10%;
+        width: 80%;
+    }
+}
+@media (max-width:768px) {
+    .about__bg {
+        display: none;
+    }
+    .about__img{
+        width: 100%;
+    }
+    .rectangle1,.rectangle2, .rectangle4{
+        display: none;
+    }
+    .carousel__img{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media (max-width:576px) {
+    
+}
